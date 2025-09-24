@@ -1,7 +1,5 @@
 <h1 align="center">Amigo Secreto</h1>
-
 <img src="assets/Portada.png" alt="portada">
-
 <p aling="center">Juego para sortear un amigo secreto de la lista de nombres que ingreses</p>
 <hr>
 <h2 aling="center">Indice</h2>
